@@ -1,0 +1,99 @@
+body{
+    background-color: #e7e7e7;
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+}
+h2{
+    text-align: left;
+    text-decoration: rgb(179, 0, 0);
+    font-size: 25px;
+    margin: 15px;
+}
+h3{
+    text-align: center;
+    font-size: 27px;
+    
+}
+p{
+   
+    font-size: 20px;
+    margin: 18px;
+    padding: 3px;
+   
+}
+h4{
+    text-align: left;
+    text-decoration: black;
+    font-size: 26px;
+    margin: 15px;
+   
+}
+.enlace{
+    width: 400px;
+    height: 20px;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid rgb(19, 148, 235);
+    border-radius: 20px;
+    box-shadow:400px rgb(1, 127, 200) ;
+}
+h1.titulo{
+    border: 3px solid rgb(1, 127, 200);
+    box-shadow:rgb(1, 127, 200);
+    background-color: rgb(1, 127, 200);
+}
+.enlaces{
+    width: 200px;
+    height: 20px;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid rgb(19, 148, 235);
+    border-radius: 20px;
+    box-shadow: 200px  rgb(19, 148, 235);
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #7aa8b7;
+    border-radius: 6px;
+    outline: none;
+  }
+  
+.tex{
+    border: 25px solid rgb(241, 244, 245);
+    background-color: rgb(241, 244, 245);
+    width: 76%;
+    height: 80%;
+    padding: 0px 0px 0px 0px;
+    margin: 35px;
+}
+.tex h4{
+    border-left: thick solid #0488e0; 
+}
+.text{
+    border: 25px solid rgb(241, 244, 245);
+    background-color: rgb(241, 244, 245);
+    width: 76%;
+    height: 80%;
+    padding: 0px 0px 0px 0px;
+    margin: 35px; 
+}
+.text p{
+    border-left: thick solid #0488e0; 
+}
+.texto{
+    border: 25px solid rgb(241, 244, 245);
+    background-color: rgb(241, 244, 245);
+    width: 76%;
+    height: 80%;
+    padding: 0px 0px 0px 0px;
+    margin: 35px; 
+}
+.texto p{
+    border-left: thick solid #0488e0; 
+} 
